@@ -1,1 +1,0 @@
-Pyhton Error Catcher
